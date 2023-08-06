@@ -1,11 +1,5 @@
 import React from "react";
-import {
-    FaFacebookF,
-    FaInstagram,
-    FaTwitter,
-    FaLinkedin,
-    FaGithub,
-} from "react-icons/fa";
+import { FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
 
